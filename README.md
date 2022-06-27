@@ -3,7 +3,7 @@
 ```
 # clone root level folder content repository with devcontainers to run all our projects
 git clone https://github.com/LearningJunkiesOrg/local-env-configuration.git LearningJunkiesOrg
-cd ./LearningJunkiesOrg/
+cd ./LearningJunkiesOrg/projects
 
 # uncomment repositories you want to clone as subfolders
 # git clone https://github.com/LearningJunkiesOrg/crypto-automation.git
